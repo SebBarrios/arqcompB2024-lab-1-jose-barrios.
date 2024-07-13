@@ -11,7 +11,7 @@
 ## Educación
 - **Institución**: Unidad Educativa Colegio La Salle Merida 
 - **Grado Académico**: Bachiller en Ciencias 
-- **Años de Estudio**:
+- **Años de Estudio**: 2008 - 2022
 - **Actualmente**: Universidad de Los Andes, Facultad de Ingenieria, Escuela de Ingenieria en Sistemas
 
 ## Experiencia Laboral
