@@ -16,6 +16,7 @@
 
 ## Experiencia Laboral
 **Sin Experiencia Laboral**
+- **Proyecto 1**: Jefe de Diseño UX/UI
 
 ## Habilidades
 - **Hablar fluidamente Ingles**: Graduado de el CEVAM (Centro Venezolano Americano de Merida) 
